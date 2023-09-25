@@ -15,14 +15,5 @@ I'm a Swedish teenage nerd 🙃
 ![Typescript_logo_2020 svg](https://github.com/ZRswe10/ZRswe10/assets/103931424/f442c025-5ea2-4352-af3b-4771584974a1)
 ![javascript](https://github.com/ZRswe10/ZRswe10/assets/103931424/e76e7971-a37e-4fdf-bb9d-dc1e3c506a5f)
 ![python](https://github.com/ZRswe10/ZRswe10/assets/103931424/0e985b3a-a866-4d02-8902-632b127cbf9d)
-![node js](https://github.com/ZRswe10/ZRswe10/assets/103931424/c2a7f24f-68f3-49fb-82ee-63bb8cc864ac)
 ![mysql](https://github.com/ZRswe10/ZRswe10/assets/103931424/6eec836f-fdd1-40ae-8aea-ab4765bbdc8a)
 ![react](https://github.com/ZRswe10/ZRswe10/assets/103931424/6c9ed030-4fbd-4f68-b503-a7e8e1312d5d)
-![c#](https://github.com/ZRswe10/ZRswe10/assets/103931424/63a729d1-3ca6-480b-8609-431e0bbe5811)
-
-
-
-
-
-
-
